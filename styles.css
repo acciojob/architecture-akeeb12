@@ -1,29 +1,14 @@
 table{
 	width:100%;
 	border-collapse:collapse;
-	border:2px solid pink;
+	border:2px solid black;
 	text-align:left;
 }
 .img
 {
-	border:1px solid black;
+	/* border:1px solid black; */
 	width:200px;
 	position:absolute;
 }
-tr,th.txt1
-{
-	border:2px solid black;
-	width:600px;
-	
-}
-tr,th.txt2
-{
-	border:2px solid black;
-	height:50px;
-	
-}
-
-
-
 
 
